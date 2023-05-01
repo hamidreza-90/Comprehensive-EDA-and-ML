@@ -1,0 +1,75 @@
+Position: Power Systems Application Developer/Power System Automation Engineer
+
+ 
+
+Job Summary:
+
+We are seeking a skilled and motivated Power Systems Application Developer/Power System Automation Engineer to join our team. In this role, you will be responsible for developing automations for power system analysis and planning tasks using a variety of software tools. You will collaborate with other members of the team to design, implement, and test power system models, simulations, and data analyses. You will also be responsible for developing and maintaining documentation, providing technical support to internal and external stakeholders, and staying up-to-date with the latest industry trends and best practices.
+
+ 
+
+Responsibilities:
+
+ 
+
+Develop and maintain automations for power system analysis and planning tasks using a variety of software tools.
+
+Collaborate with other members of the team to design, implement, and test power system models, simulations, and data analyses.
+
+Develop and maintain documentation, including technical specifications, user manuals, and test plans.
+
+Provide technical support to internal and external stakeholders, including troubleshooting and issue resolution.
+
+Stay up-to-date with the latest industry trends and best practices related to power systems automation, modeling, and analysis.
+
+Continuously improve and optimize the performance and accuracy of power system models and simulations.
+
+Communicate technical information effectively to both technical and non-technical audiences.
+
+Work on projects involving large data sets and implement data storage and retrieval solutions.
+
+Develop optimization algorithms for power system planning and operations problems.
+
+Develop predictive models for power system behavior using machine learning techniques and tools.
+
+Manage and analyze large-scale power system data using cloud computing platforms.
+
+Create visually appealing and accessible data visualizations for power system data.
+
+Manage complex power system automation projects and ensure on-time delivery.
+
+ 
+
+Requirements:
+
+ 
+
+Bachelor's or Master's degree in Electrical Engineering or a related field.
+
+3+ years of experience in power systems automation, modeling, and analysis, with a focus on transmission planning studies.
+
+Strong proficiency on power system analysis software tools, such as PSSE and PowerGEM TARA, PSCAD.
+
+Experience with Python and related libraries such as pandas for data analysis.
+
+Experience with source control, such as Git.
+
+Experience with database technologies such as SQL, MongoDB, or Cassandra, to manage and manipulate large datasets.
+
+Knowledge of optimization algorithms, such as linear programming or mixed-integer programming, to develop solutions to power system planning and operations problems.
+
+Familiarity with data visualization tools, such as Tableau or Matplotlib, to present complex power system data in an accessible and visually appealing way.
+
+Familiarity with machine learning techniques and tools, such as scikit-learn or TensorFlow, to develop predictive models for power system behavior is a plus.
+
+Solid understanding of power system theory, including power flow, stability, and control.
+
+Strong problem-solving and analytical skills.
+
+Excellent communication and teamwork skills.
+
+Has experience developing automation for power system analysis and planning tasks.
+
+Strong project management skills, to manage complex power system automation projects and ensure on-time delivery.
+
+Willingness to continuously learn and develop new skills, to stay up-to-date with the latest advances in power system automation and related fields.
